@@ -1,11 +1,9 @@
 <?php
 
+declare(strict_types=1);
 
 it('teste de home page')->get('/')
 ->assertOk();
-
-
-
 
 // namespace Tests\Feature;
 
