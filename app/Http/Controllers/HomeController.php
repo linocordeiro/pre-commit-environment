@@ -34,7 +34,7 @@ class HomeController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public functio store(Request $request)
+    public function store(Request $request)
     {
         //
     }
